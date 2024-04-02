@@ -1,1 +1,1 @@
-Please see the document 
+Please see the document [Similarity measure in neural networks](https://github.com/JIAOJIAOMEI/Similarity-measure-in-neural-networks/blob/main/Similarity%20measure%20in%20neural%20networks.pdf), just a personal note.
